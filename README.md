@@ -1,3 +1,3 @@
 # gamesite
 
-a website which lists good game websites.
+a website which lists good games.
