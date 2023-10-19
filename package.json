@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@planetscale/database": "^1.11.0",
+    "@vercel/postgres": "^0.5.0",
     "dotenv": "^16.3.1",
-    "drizzle-kit": "^0.19.13",
     "drizzle-orm": "^0.28.6",
     "mysql2": "^3.6.2",
     "next": "13.5.6",
@@ -23,6 +23,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
+    "drizzle-kit": "^0.19.13",
     "eslint": "^8",
     "eslint-config-next": "13.5.6",
     "postcss": "^8",
